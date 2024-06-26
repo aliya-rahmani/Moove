@@ -1,7 +1,5 @@
 # Moove: It's The Moove
 
-### 🏆[ VenusHacks 2024 Best Use of Melissa API/Data Sets Winner](https://devpost.com/software/moove-hr6piw?ref_content=user-portfolio&ref_feature=in_progress)
-
 ## Introduction
 Moove is a comprehensive app designed to streamline the moving-out process for college students. It offers two primary functionalities: ownership authentication and property rundown. By utilizing modern web technologies and powerful APIs, Moove aims to provide accurate and efficient assistance to users.
 
@@ -42,4 +40,4 @@ To get started with Moove, follow these steps:
 Moove is licensed under the MIT License. We also used the Melissa API. See the LICENSE file for more details.
 
 ## Contact
-If you have any questions or suggestions regarding Moove, feel free to reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions regarding Moove, feel free to reach out to us at [aliyarahmani786@gmail.com](mailto:aliyarahmani786@gmail.com).

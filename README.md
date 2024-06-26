@@ -7,7 +7,18 @@ Moove is a comprehensive app designed to streamline the moving-out process for c
 
 ### Ownership Authentication
 Moove ensures the authenticity of ownership for properties through a robust verification process. This feature relies on Firebase for storing ownership keys securely in the cloud. Users can authenticate their ownership status, which is crucial for accessing certain functionalities within the app.
+## 📸 Screenshots
 
+-  Landing Page
+  ![Landing Page](screenshots/1.png)
+- Identification Key
+  ![Identification Key](screenshots/2.png)
+-  Fill info
+  ![Fill info](screenshots/3.png)
+-  Moove report(dashboard)
+  ![dashboard](screenshots/4.png)
+-  Mortgage Calculator(dashboard)
+  ![dashboard](screenshots/5.png)
 ### Property Rundown
 One of the core features of Moove is its ability to provide a detailed rundown of inputted properties. Through integration with the Melissa Data API, Moove retrieves accurate data regarding houses and their ownership status. This information is presented to users in an organized manner, facilitating informed decision-making during the moving-out process.
 
